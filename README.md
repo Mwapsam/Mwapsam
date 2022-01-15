@@ -1,6 +1,6 @@
 ### Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Mwape!
 
-![hell](./animae/Grand%20Re-opening%20Sale.gif)
+![hell](./animae/code.gif)
 
 I'm currently learning Full-Stack Development.
 
