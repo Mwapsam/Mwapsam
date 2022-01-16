@@ -1,7 +1,5 @@
 ### Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Mwape!
 
-![hell](./animae/code.gif)
-
 I'm currently learning Full-Stack Development.
 
 BIO
@@ -38,7 +36,7 @@ BIO
 
 ---
 
-[![Ola's GitHub stats](https://github-readme-stats.vercel.app/api?username=netman5&show_icons=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
+[![Ola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwapsam&show_icons=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
