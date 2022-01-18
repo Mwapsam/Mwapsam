@@ -36,6 +36,17 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+```text
+JavaScript   22 hrs 20 mins  ████████████████████████░   96.46 % 
+TypeScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+CSS          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Git Config   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+```
+<!--END_SECTION:waka-->
+
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
