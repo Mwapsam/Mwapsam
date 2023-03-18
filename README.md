@@ -5,7 +5,7 @@ With a career spanning three years as a full-stack web developer, I bring a pass
 
 <!--   <img align="right" alt="GIF" src="https://github.com/Mwapsam/Mwapsam/blob/main/img/code.gif?raw=true" width="500" height="320" /> -->
   
-- 💼 any freelance work? do reach, [email](mailto:mwapsam@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:mwapsam@gmail.com) 
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
